@@ -36,5 +36,25 @@ My native language is Chinese. If you want to visit English, please come [here](
 
 
 
+-----
+
+
+
+**喜欢的事** ：
+住在酒店里无窗的最中间的房间里敲代码
+为什么喜欢这样的环境？
+因为安静
+一关灯，白天也像黑夜
+
+我是一个极度喜欢安静的人
+
+
+
+
+
+
+
+
+
 
 
