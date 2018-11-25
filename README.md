@@ -49,7 +49,7 @@ My native language is Chinese. If you want to visit English, please come [here](
 
 因为安静
 
-一关灯，白天也像黑夜
+一关灯，白天也变黑夜
 
 
 
