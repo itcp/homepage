@@ -28,6 +28,7 @@ My native language is Chinese. If you want to visit English, please come [here](
 + http网络协议
 + 面向对象及常用设计模式
 + 基于关系型数据库的业务建模和少许ETL的东西
++ NoSQL的使用
 
 # 过往开发的主要项目类型
 
